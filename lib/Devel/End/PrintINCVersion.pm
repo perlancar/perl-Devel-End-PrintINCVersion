@@ -34,3 +34,10 @@ END {
 After loading this module, when program ends, versions of files (modules) listed
 in C<%INC> will be printed to STDOUT. The versions are extracted using
 L<ExtUtils::MakeMaker>'s C<parse_version>.
+
+
+=head1 SEE ALSO
+
+L<Devel::EndHandler::PrintINCVersion>
+
+Other C<Devel::End::*> modules
