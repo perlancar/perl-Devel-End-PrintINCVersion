@@ -38,6 +38,6 @@ L<ExtUtils::MakeMaker>'s C<parse_version>.
 
 =head1 SEE ALSO
 
-L<Devel::EndHandler::PrintINCVersion>
+L<Devel::DieHandler::PrintINCVersion>
 
 Other C<Devel::End::*> modules
